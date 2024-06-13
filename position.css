@@ -1,0 +1,30 @@
+main {
+    background-color: rgb(177, 226, 102);
+    width: 90%;
+    margin: auto;
+    height: 2000px;
+  }
+  
+  .box1 {
+    background-color: rgba(0, 0, 255, 0.932);
+    width: 150px;
+    height: 150px;
+  }
+  
+  .box2 {
+    background-color: rgba(220, 20, 60, 0.85);
+    width: 150px;
+    height: 150px;
+  }
+  
+  .box3 {
+    background-color: rgba(255, 187, 0, 0.85);
+    width: 150px;
+    height: 150px;
+  }
+  
+  .box4 {
+    background-color: rgba(255, 0, 255, 0.904);
+    width: 150px;
+    height: 150px;
+  }
